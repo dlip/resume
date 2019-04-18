@@ -4,6 +4,7 @@
   "description": "Resume",
   "main": "index.js",
   "scripts": {
+    "linkedin": "node linkedin.js",
     "gh-pages": "gh-pages -d dist"
   },
   "repository": {
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/dlip/resume#readme",
   "dependencies": {
+    "csv-parser": "^2.2.0",
     "gh-pages": "^2.0.1"
   }
 }

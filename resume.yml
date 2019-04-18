@@ -1,27 +1,26 @@
 ---
 mainfont: Helvetica
-firstname: Ernest Q.
-lastname: Gnuherd
-address:
-  street: 1 Tough Place
-  city: Rockville
-  country: Freedonia
-email: the_goatherd@example.com
-phone: +999-555-1234
-linkedin: ernestthegoatherd
-github: thegoatwhisperer
-twitter: honeygetmygoat
-homepage: www.thegoatwhispererconspiracy.cheaphost.example.com
+firstname: Dane
+lastname: Lipscombe
+# address:
+#   street: 1 Tough Place
+#   city: Rockville
+#   country: Freedonia
+email: dane@lipscombe.com.au
+# phone: +999-555-1234
+linkedin: danelipscombe
+github: dlip
+twitter: danelips
+homepage: http://lipscombe.com.au/
 
 summary: >-
-  I am an exceptionally honest and diligent goatherd. I am looking for
-  new opportunities in herd management.
+  I am a passionate technologist with over 10 years experience developing products and platforms that are reliable and delivered on time.
 
 experience:
-  - dates: 10/2015 - present
-    employer: Evil Corp
-    title: Senior Goatherd
-    city: Rockville
+  - dates: Nov 2016 - present
+    employer: Commonwealth Bank
+    title: Domain Engineer
+    city: Sydney, Australia
     description:
       - As Senior Goatherd, I oversee the work of one Junior Goatherd.
         I am responsible for the lives of 18 full grown goats (currently).
@@ -31,10 +30,10 @@ experience:
 # need to use '>' to be able to use ':' in the text.
       - >
           Technologies used: sheepdog, cane, javascript, AWS Kinesis, AWS IoT.
-  - dates: 1/2010 - 10/2015
-    employer: Evil Corp
-    title: Goatherd First Class
-    city: Rockville
+  - dates: Mar 2016 - Nov 2016
+    employer: Telstra
+    title: Senior Technology Specialist
+    city: Sydney, Australia
     description:
       - As a First Class Goatherd, I was responsible for half of our whole
         herd during the swing shift hours of 2PM to 1:45AM. I was awarded
@@ -43,10 +42,10 @@ experience:
         comparative report from the field" in Journal of Comparative
         Contemporary Herding, vol. 323 (2015).
     tech: sheepdog, shoes
-  - dates: 10/1999 - 1/2010
-    employer: Evil Corp
-    title: Junior Goatherd
-    city: Rockville
+  - dates: Jun 2013 - Feb 2016
+    employer: Mytrax
+    title: Software Developer and Systems Administrator
+    city: Tokyo, Japan
     description:
       - As Junior Goatherd, I was responsible for watching the herd during the
         graveyard shift for my first nine years on the job. After stellar
@@ -54,9 +53,9 @@ experience:
     tech: shovel, bucket
 
 certifications:
-  - cert: CSDHA
+  - cert: 80841ACT
     description:
-      Certified Sheep Dog Handler - Associate, 2014, number 38957271
+      Advanced Diploma of Professional Game Development from Academy of Interactive Entertainment
 
 interests:
   I am interested in widening my expertise to the problems of herding

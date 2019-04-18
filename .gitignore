@@ -7,3 +7,6 @@
 
 /dist
 /node_modules
+/linkedin-export
+
+.DS_Store
