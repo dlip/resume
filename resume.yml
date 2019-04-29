@@ -7,13 +7,13 @@ linkedin: danelipscombe
 github: dlip
 twitter: danelips
 homepage: http://lipscombe.com.au/
-summary: "“I am a passionate technologist with over 10 years experience developing
-  products and platforms that are reliable and delivered on time.”  Programming
-  Languages: ● PHP, Ruby, Javascript, C#, C++, Java Web Tools and Frameworks: ●
+summary: "I am a passionate technologist with over 10 years experience developing
+  products and platforms that are reliable and delivered on time.  Programming
+  Languages: - PHP, Ruby, Javascript, C#, C++, Java  Web Tools and Frameworks: -
   Laravel, Symfony, Node.js, Grunt, Webpack, Rails, ASP.NET MVC, Wordpress,
-  Drupal Operating Systems: ● Ubuntu/Debian and CentOS Linux, Windows server,
-  MacOS Systems Administration: ● Docker, Ansible, Amazon Cloud, Chef, LDAP,
-  MySQL, PostgreSQL, Nagios, Memcache, Elasticsearch Developer Tools: ● VIM,
+  Drupal  Operating Systems: - Ubuntu/Debian and CentOS Linux, Windows server,
+  MacOS  Systems Administration: - Docker, Ansible, Amazon Cloud, Chef, LDAP,
+  MySQL, PostgreSQL, Nagios, Memcache, Elasticsearch  Developer Tools: - VIM,
   Git, SVN, Visual Studio, Eclipse, Jenkins, Redmine, Github, GitLab"
 experience:
   - dates: Nov 2016 - Current
@@ -52,7 +52,7 @@ experience:
   - dates: Mar 2010 - Nov 2012
     employer: Assetic Pty Ltd
     title: Software Developer and Systems Administrator
-    city: ""
+    city: Melbourne, Australia
     description:
       - "Developing the company’s flagship product, SAM (Strategic Asset
         Management) which is asset management software for local council.
@@ -64,20 +64,20 @@ experience:
       - Maintain and improve the companies infrastructure, which includes
         Linux/Windows web servers running on a VMWare ESX platform in multiple
         locations.
-  - dates: Feb 2010 - Feb 2012
+  - dates: Mar 2010 - Feb 2012
     employer: b2cloud
     title: Part Time Software Developer and Systems Administrator
-    city: ""
+    city: Melbourne, Australia
     description:
       - "Developed “Gaawk”, a news and social media aggregator/organiser.
         Written as a Drupal module in PHP, it also includes heavy use of
         Javascript to enable quick sorting of articles in a single page. "
       - Developed the startups initial Linux server infrastructure and
         introduced an agile development workflow.
-  - dates: Jan 2009 - Feb 2010
+  - dates: Jan 2009 - Mar 2010
     employer: Big Ant Studios
     title: Games Developer
-    city: ""
+    city: Melbourne, Australia
     description:
       - "Game play and tools programming on NRL Live, which was released in
         August 2010. Development in C++ using Sony PhyreEngine on PC, PS3, and
@@ -85,10 +85,10 @@ experience:
       - Coordinated with animators in integrating player and AI actions using
         sofware I created in C# which uses flowcharts to script the animations
         with the behavior in the game.
-  - dates: Feb 2007 - Dec 2009
+  - dates: Mar 2007 - Dec 2009
     employer: CASE (Computer Assistance Support and Education)
     title: Software Developer and Systems Administrator
-    city: ""
+    city: Canberra, Australia
     description:
       - "Developed VISE web platform to match students in rural areas to
         registered mobile teachers. It was developed with PHP and MySQL and
@@ -100,7 +100,7 @@ experience:
   - dates: Mar 2008 - Oct 2008
     employer: Micro Forte
     title: Games Developer
-    city: ""
+    city: Canberra, Australia
     description:
       - "Improved the tools pipeline including the in house level editor and 3D
         Studio Max exporters in C++ and MaxScript.  "
@@ -109,14 +109,16 @@ experience:
   - dates: Apr 2007 - Jul 2007
     employer: 2K Games
     title: Quality Assurance
-    city: ""
+    city: Canberra, Australia
     description:
+      - " "
       - Play testing the critically acclaimed Bioshock. Logging and reviewing
         bugs in their tracking system.
 certifications:
-  - cert: Advanced Diploma of Professional Game Development
-    description: 2007 - 2007 at Academy of Interactive Entertainment
-  - cert: Higher School Certificate
-    description: 1994 - 2000 at Moorebank High School
+  - cert: 80841ACT
+    description: 2007 - 2007 Advanced Diploma of Professional Game Development at Academy
+      of Interactive Entertainment
+  - cert: HSC
+    description: 1994 - 2000 Higher School Certificate at Moorebank High School
 
 ...

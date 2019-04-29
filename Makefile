@@ -18,4 +18,6 @@ $(OUTDIR)/resume.md: $(OUTDIR) resume.yml resume.pandoc.markdown ; pandoc -t mar
 
 publish: ; yarn run gh-pages
 
+linkedin-import: ; yarn run linkedin-import
+
 clean: ; rm -rf $(OUTDIR)

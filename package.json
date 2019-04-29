@@ -4,7 +4,7 @@
   "description": "Resume",
   "main": "index.js",
   "scripts": {
-    "linkedin": "node linkedin.js",
+    "linkedin-import": "node linkedin-import.js",
     "gh-pages": "gh-pages -d dist"
   },
   "repository": {

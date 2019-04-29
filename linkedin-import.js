@@ -26,12 +26,12 @@ async function run() {
     employer: p["Company Name"],
     title: p["Title"],
     city: p["Location"],
-    description: p["Description"].split("● ").filter(x => x)
+    description: p["Description"].split("- ").filter(x => x)
   }));
 
   const certifications = education.map(e => ({
     cert: e["Degree Name"],
-    description: `${e["Start Date"]} - ${e["End Date"]} at ${e["School Name"]}`
+    description: `${e["Start Date"]} - ${e["End Date"]} ${e["Notes"]} at ${e["School Name"]}`
   }));
 
   const result = {
@@ -47,7 +47,7 @@ async function run() {
     experience,
     certifications
   };
-  console.log(YAML.stringify(result));
+  console.log(YAML.stringify(education));
   fs.writeFileSync("resume.yml", "---\n" + YAML.stringify(result) + "\n...")
 }
 run();
