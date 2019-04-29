@@ -8,14 +8,14 @@ Dane Lipscombe
 SUMMARY
 -----------
 
-"I am a passionate technologist with over 10 years experience developing
-products and platforms that are reliable and delivered on time."
-Programming Languages: ● PHP, Ruby, Javascript, C\#, C++, Java Web Tools
-and Frameworks: ● Laravel, Symfony, Node.js, Grunt, Webpack, Rails,
-ASP.NET MVC, Wordpress, Drupal Operating Systems: ● Ubuntu/Debian and
-CentOS Linux, Windows server, MacOS Systems Administration: ● Docker,
+I am a passionate technologist with over 10 years experience developing
+products and platforms that are reliable and delivered on time.
+Programming Languages: - PHP, Ruby, Javascript, C\#, C++, Java Web Tools
+and Frameworks: - Laravel, Symfony, Node.js, Grunt, Webpack, Rails,
+ASP.NET MVC, Wordpress, Drupal Operating Systems: - Ubuntu/Debian and
+CentOS Linux, Windows server, MacOS Systems Administration: - Docker,
 Ansible, Amazon Cloud, Chef, LDAP, MySQL, PostgreSQL, Nagios, Memcache,
-Elasticsearch Developer Tools: ● VIM, Git, SVN, Visual Studio, Eclipse,
+Elasticsearch Developer Tools: - VIM, Git, SVN, Visual Studio, Eclipse,
 Jenkins, Redmine, Github, GitLab
 
 
@@ -62,7 +62,7 @@ maintainability and deployment of platform.
 
 
 **Software Developer and Systems Administrator**
-Assetic Pty Ltd *Mar 2010 - Nov 2012*
+Assetic Pty Ltd (Melbourne, Australia) *Mar 2010 - Nov 2012*
 
 Developing the company's flagship product, SAM (Strategic Asset
 Management) which is asset management software for local council.
@@ -79,7 +79,7 @@ locations.
 
 
 **Part Time Software Developer and Systems Administrator**
-b2cloud *Feb 2010 - Feb 2012*
+b2cloud (Melbourne, Australia) *Mar 2010 - Feb 2012*
 
 Developed "Gaawk", a news and social media aggregator/organiser. Written
 as a Drupal module in PHP, it also includes heavy use of Javascript to
@@ -90,7 +90,7 @@ introduced an agile development workflow.
 
 
 **Games Developer**
-Big Ant Studios *Jan 2009 - Feb 2010*
+Big Ant Studios (Melbourne, Australia) *Jan 2009 - Mar 2010*
 
 Game play and tools programming on NRL Live, which was released in
 August 2010. Development in C++ using Sony PhyreEngine on PC, PS3, and
@@ -102,7 +102,7 @@ with the behavior in the game.
 
 
 **Software Developer and Systems Administrator**
-CASE (Computer Assistance Support and Education) *Feb 2007 - Dec 2009*
+CASE (Computer Assistance Support and Education) (Canberra, Australia) *Mar 2007 - Dec 2009*
 
 Developed VISE web platform to match students in rural areas to
 registered mobile teachers. It was developed with PHP and MySQL and
@@ -115,7 +115,7 @@ employees Windows computers.
 
 
 **Games Developer**
-Micro Forte *Mar 2008 - Oct 2008*
+Micro Forte (Canberra, Australia) *Mar 2008 - Oct 2008*
 
 Improved the tools pipeline including the in house level editor and 3D
 Studio Max exporters in C++ and MaxScript.
@@ -125,7 +125,9 @@ of their BigWorld MMO engine using Python and C++.
 
 
 **Quality Assurance**
-2K Games *Apr 2007 - Jul 2007*
+2K Games (Canberra, Australia) *Apr 2007 - Jul 2007*
+
+
 
 Play testing the critically acclaimed Bioshock. Logging and reviewing
 bugs in their tracking system.
@@ -134,8 +136,9 @@ bugs in their tracking system.
 CERTIFICATIONS
 -----------
 
-- Advanced Diploma of Professional Game Development: 2007 - 2007 at Academy of Interactive Entertainment
-- Higher School Certificate: 1994 - 2000 at Moorebank High School
+- 80841ACT: 2007 - 2007 Advanced Diploma of Professional Game Development at Academy
+of Interactive Entertainment
+- HSC: 1994 - 2000 Higher School Certificate at Moorebank High School
 
 
 INTERESTS
