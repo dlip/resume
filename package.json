@@ -20,6 +20,7 @@
   "homepage": "https://github.com/dlip/resume#readme",
   "dependencies": {
     "csv-parser": "^2.2.0",
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^2.0.1",
+    "yaml": "^1.5.0"
   }
 }
